@@ -1,6 +1,6 @@
 # Human_tracking_system
-+ clear video noise and saving it
-+ DEtect humans appeared on the video using MobileNetSSD model
++ Clear video noise and saving it
++ Detect humans appeared on the video using MobileNetSSD model
 + Tracking humans that detected
 ## Input/Output
 +Part of input video
